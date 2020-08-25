@@ -7,6 +7,6 @@ yarn-error.log
 
 # build
 
-compat/
+#compat/
 #dist/
 .idea

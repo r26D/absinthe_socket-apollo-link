@@ -1,0 +1,12 @@
+# node.js
+
+node_modules/
+lerna-debug.log
+npm-debug.log
+yarn-error.log
+
+# build
+
+compat/
+dist/
+.idea
